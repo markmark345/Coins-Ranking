@@ -1,2 +1,2 @@
 # Coins-Ranking
-Coins rangking top Cryptocurrencies for Android
+This project is about coins rangking top Cryptocurrencies for Android appication
